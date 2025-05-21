@@ -1,13 +1,6 @@
 - 👋 Hi, I’m Kimberly Lazarski
-- 👀 I’m interested in Linux, Roller Derby, Corvettes, Kia Stingers, shooting sports, photography, physics
-- This is an account I use for training at work for my role in openshift and storage at Red Hat
-- I may be using it for open source projects after I get a few prerequisite certifications out of the way
-- One of the projects you will eventually find here is a suite of sysadmin tools I will be developing
-- No ETA on apearance of the projects
-
-<!---
-klazarsk/klazarsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. 
-
-blah blah blah we do know dis
---->
+- 👀 I’m interested in Linux, roller skating, Corvettes, Kia Stingers, shooting sports, photography, physics, microscopy
+- I'm involved in intersex activism and awareness, because the rights of 5.6 MILLION intersex Americans are under attack (we are literally and provably "born that way" so stop attacking our rights!) 
+- This is an account I use for training at work for my role in platforms and storage at Red Hat
+- No ETA on apearance of projects
+- top disk consumers is NOT dead nor abandoned; I have an update in the works to address issues on Debian-derived distros. Simple issues, but low priority for me since I don't use Debian. ;)  
