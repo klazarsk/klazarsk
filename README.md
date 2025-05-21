@@ -2,5 +2,5 @@
 - 👀 I’m interested in Linux, roller skating, Corvettes, Kia Stingers, shooting sports, photography, physics, microscopy
 - I'm involved in intersex activism and awareness, because the rights of 5.6 MILLION intersex Americans are under attack (we are literally and provably "born that way" so stop attacking our rights!) 
 - This is an account I use for training at work for my role in platforms and storage at Red Hat
-- No ETA on apearance of projects
+- No ETA on apearance of projects (free time is scarce and I jealously guard it!)
 - top disk consumers is NOT dead nor abandoned; I have an update in the works to address issues on Debian-derived distros. Simple issues, but low priority for me since I don't use Debian. ;)  
